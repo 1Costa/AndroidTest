@@ -35,7 +35,6 @@ public class MainActivity extends AppCompatActivity {
         if (item.getItemId()== R.id.action_favorite){
            Intent intent = new Intent(MainActivity.this, FavouritesActivity.class);
            startActivity(intent);
-
         }
         return super.onOptionsItemSelected(item);
     }

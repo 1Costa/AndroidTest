@@ -3,4 +3,6 @@
     <string name="action_create">Create</string>
     <string name="action_settings">Settings</string>
     <string name="action_new">New</string>
+    <string name="to_edit_activity">To Edit Activity</string>
+    <string name="edit_activity_page">Edit Activity Page</string>
 </resources>
