@@ -29,8 +29,8 @@ public class FavouritesActivity extends AppCompatActivity {
         //toolbar.setDisplayShowHomeEnabled(true);
         toolbar.setDisplayHomeAsUpEnabled(true);
 
-        //Toast.makeText(this, "This is a toast", Toast.LENGTH_SHORT)
-        //        .show();
+        Toast.makeText(this, "This is a toast", Toast.LENGTH_SHORT)
+                .show();
 
         LayoutInflater inflater = getLayoutInflater();
         View layout = inflater.inflate(R.layout.toast_layout,
