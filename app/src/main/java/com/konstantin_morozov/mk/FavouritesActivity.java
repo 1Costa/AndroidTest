@@ -16,7 +16,7 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 /**
- * Created by Konstantins_Morozovs on 06/07/2016.
+ * Created by Konstantin_Morozov on 06/07/2016.
         */
 public class FavouritesActivity extends AppCompatActivity {
 
