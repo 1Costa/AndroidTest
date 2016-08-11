@@ -57,7 +57,6 @@ public class FavouritesActivity extends AppCompatActivity {
 
         snackbar.show();
 
-
     }
 
     public boolean onOptionsItemSelected(MenuItem item) {

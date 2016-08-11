@@ -9,21 +9,6 @@
         android:title="Fav"
         app:showAsAction="ifRoom"/>
 
-    <item android:id="@+id/action_create"
-        android:orderInCategory="101"
-        app:showAsAction="always|withText"
-        android:title="@string/action_create"
-        android:icon="@drawable/ic_create"/>
 
-
-    <item android:id="@+id/action_settings"
-        android:title="@string/action_settings"
-        android:orderInCategory="101"
-        app:showAsAction="never"/>
-
-    <item android:id="@+id/action_new"
-        android:title="@string/action_new"
-        android:orderInCategory="101"
-        app:showAsAction="never"/>
 
 </menu>
